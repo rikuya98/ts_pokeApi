@@ -1,2 +1,1 @@
-
-[プレビュー](../Desktop/pokeApi.mov)
+![プレビュー](image.png)
